@@ -1,0 +1,204 @@
+<?xml version="1.0"?>
+<alien>
+  <collection name="find  -l 15000  -o 0 /alice/sim/2016/LHC16h8b/244355 AOD/*/AliAOD.Muons.root">
+    <event name="1">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/001/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/001/AliAOD.Muons.root" />
+    </event>
+    <event name="2">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/002/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/002/AliAOD.Muons.root" />
+    </event>
+    <event name="3">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/003/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/003/AliAOD.Muons.root" />
+    </event>
+    <event name="4">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/004/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/004/AliAOD.Muons.root" />
+    </event>
+    <event name="5">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/005/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/005/AliAOD.Muons.root" />
+    </event>
+    <event name="6">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/006/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/006/AliAOD.Muons.root" />
+    </event>
+    <event name="7">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/007/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/007/AliAOD.Muons.root" />
+    </event>
+    <event name="8">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/008/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/008/AliAOD.Muons.root" />
+    </event>
+    <event name="9">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/009/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/009/AliAOD.Muons.root" />
+    </event>
+    <event name="10">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/010/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/010/AliAOD.Muons.root" />
+    </event>
+    <event name="11">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/011/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/011/AliAOD.Muons.root" />
+    </event>
+    <event name="12">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/012/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/012/AliAOD.Muons.root" />
+    </event>
+    <event name="13">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/013/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/013/AliAOD.Muons.root" />
+    </event>
+    <event name="14">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/014/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/014/AliAOD.Muons.root" />
+    </event>
+    <event name="15">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/015/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/015/AliAOD.Muons.root" />
+    </event>
+    <event name="16">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/016/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/016/AliAOD.Muons.root" />
+    </event>
+    <event name="17">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/017/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/017/AliAOD.Muons.root" />
+    </event>
+    <event name="18">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/018/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/018/AliAOD.Muons.root" />
+    </event>
+    <event name="19">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/019/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/019/AliAOD.Muons.root" />
+    </event>
+    <event name="20">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/020/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/020/AliAOD.Muons.root" />
+    </event>
+    <event name="21">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/021/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/021/AliAOD.Muons.root" />
+    </event>
+    <event name="22">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/022/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/022/AliAOD.Muons.root" />
+    </event>
+    <event name="23">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/023/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/023/AliAOD.Muons.root" />
+    </event>
+    <event name="24">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/024/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/024/AliAOD.Muons.root" />
+    </event>
+    <event name="25">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/025/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/025/AliAOD.Muons.root" />
+    </event>
+    <event name="26">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/026/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/026/AliAOD.Muons.root" />
+    </event>
+    <event name="27">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/027/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/027/AliAOD.Muons.root" />
+    </event>
+    <event name="28">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/028/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/028/AliAOD.Muons.root" />
+    </event>
+    <event name="29">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/029/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/029/AliAOD.Muons.root" />
+    </event>
+    <event name="30">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/030/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/030/AliAOD.Muons.root" />
+    </event>
+    <event name="31">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/031/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/031/AliAOD.Muons.root" />
+    </event>
+    <event name="32">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/032/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/032/AliAOD.Muons.root" />
+    </event>
+    <event name="33">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/033/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/033/AliAOD.Muons.root" />
+    </event>
+    <event name="34">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/034/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/034/AliAOD.Muons.root" />
+    </event>
+    <event name="35">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/035/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/035/AliAOD.Muons.root" />
+    </event>
+    <event name="36">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/036/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/036/AliAOD.Muons.root" />
+    </event>
+    <event name="37">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/037/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/037/AliAOD.Muons.root" />
+    </event>
+    <event name="38">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/038/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/038/AliAOD.Muons.root" />
+    </event>
+    <event name="39">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/039/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/039/AliAOD.Muons.root" />
+    </event>
+    <event name="40">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/040/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/040/AliAOD.Muons.root" />
+    </event>
+    <event name="41">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/041/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/041/AliAOD.Muons.root" />
+    </event>
+    <event name="42">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/042/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/042/AliAOD.Muons.root" />
+    </event>
+    <event name="43">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/043/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/043/AliAOD.Muons.root" />
+    </event>
+    <event name="44">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/044/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/044/AliAOD.Muons.root" />
+    </event>
+    <event name="45">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/045/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/045/AliAOD.Muons.root" />
+    </event>
+    <event name="46">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/046/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/046/AliAOD.Muons.root" />
+    </event>
+    <event name="47">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/047/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/047/AliAOD.Muons.root" />
+    </event>
+    <event name="48">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/048/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/048/AliAOD.Muons.root" />
+    </event>
+    <event name="49">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/049/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/049/AliAOD.Muons.root" />
+    </event>
+    <event name="50">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/050/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/050/AliAOD.Muons.root" />
+    </event>
+    <event name="51">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/051/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/051/AliAOD.Muons.root" />
+    </event>
+    <event name="52">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/052/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/052/AliAOD.Muons.root" />
+    </event>
+    <event name="53">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/053/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/053/AliAOD.Muons.root" />
+    </event>
+    <event name="54">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/054/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/054/AliAOD.Muons.root" />
+    </event>
+    <event name="55">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/055/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/055/AliAOD.Muons.root" />
+    </event>
+    <event name="56">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/056/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/056/AliAOD.Muons.root" />
+    </event>
+    <event name="57">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/057/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/057/AliAOD.Muons.root" />
+    </event>
+    <event name="58">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/058/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/058/AliAOD.Muons.root" />
+    </event>
+    <event name="59">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/059/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/059/AliAOD.Muons.root" />
+    </event>
+    <event name="60">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/060/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/060/AliAOD.Muons.root" />
+    </event>
+    <event name="61">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/061/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/061/AliAOD.Muons.root" />
+    </event>
+    <event name="62">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/062/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/062/AliAOD.Muons.root" />
+    </event>
+    <event name="63">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/063/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/063/AliAOD.Muons.root" />
+    </event>
+    <event name="64">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/064/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/064/AliAOD.Muons.root" />
+    </event>
+    <event name="65">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/065/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/065/AliAOD.Muons.root" />
+    </event>
+    <event name="66">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2016/LHC16h8b/244355/AOD/066/AliAOD.Muons.root" turl="alien:///alice/sim/2016/LHC16h8b/244355/AOD/066/AliAOD.Muons.root" />
+    </event>
+    <info comment="Exported XML" />
+</collection>
+</alien>

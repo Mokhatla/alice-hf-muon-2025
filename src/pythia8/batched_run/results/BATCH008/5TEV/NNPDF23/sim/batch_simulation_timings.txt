@@ -1,0 +1,2 @@
+Duration for runSimulationParallel5tevNnpdf23: 185 seconds
+-------------------

@@ -1,0 +1,6 @@
+Batch simulation started: Thu, 13 Jun 2024, 12:07:57
+-------------------
+Batch simulation ended: Thu, 13 Jun 2024, 12:22:17
+-------------------
+Simulation duration: 0 days, 0 hours, 14 minutes, 20 seconds
+Total run time: 00:14:20 (hh:mm:ss)

@@ -1,0 +1,2 @@
+Duration for runSimulationParallel13tevCteq66: 235 seconds
+-------------------

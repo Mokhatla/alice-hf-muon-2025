@@ -1,0 +1,2 @@
+Duration for runSimulationParallel5tevCteq66: 25 seconds
+-------------------

@@ -1,0 +1,14 @@
+Total Tried: 188927995
+Total Selected: 20000000
+Total Accepted: 20000000
+Z Boson Count: 0
+W Boson Count: 0
+Beauty Count: 13377
+JPsi Count: 21
+Charm Count: 43084
+Kaon Count: 551324
+Pion Count: 6000608
+Other Count: 499
+Total Muon Count: 6608913
+Total Cross-Section (mb): 2270.54
+Cross-Section Error (mb): 0.255915

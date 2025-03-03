@@ -1,0 +1,3 @@
+
+Cought signal 2, let's exit
+Exit
