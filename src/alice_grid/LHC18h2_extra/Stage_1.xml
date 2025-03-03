@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<alien>
+  <collection name="Stage_1">
+    <event name="1">
+      <file name="root_archive.zip" lfn="/alice/cern.ch/user/r/rmabitse/LHC18h2_extra_JAN2024/MyOutput/287000/001/root_archive.zip" turl="alien:///alice/cern.ch/user/r/rmabitse/LHC18h2_extra_JAN2024/MyOutput/287000/001/root_archive.zip" />
+    </event>
+    <event name="2">
+      <file name="root_archive.zip" lfn="/alice/cern.ch/user/r/rmabitse/LHC18h2_extra_JAN2024/MyOutput/287000/002/root_archive.zip" turl="alien:///alice/cern.ch/user/r/rmabitse/LHC18h2_extra_JAN2024/MyOutput/287000/002/root_archive.zip" />
+    </event>
+    <event name="3">
+      <file name="root_archive.zip" lfn="/alice/cern.ch/user/r/rmabitse/LHC18h2_extra_JAN2024/MyOutput/287000/003/root_archive.zip" turl="alien:///alice/cern.ch/user/r/rmabitse/LHC18h2_extra_JAN2024/MyOutput/287000/003/root_archive.zip" />
+    </event>
+    <event name="4">
+      <file name="root_archive.zip" lfn="/alice/cern.ch/user/r/rmabitse/LHC18h2_extra_JAN2024/MyOutput/287000/004/root_archive.zip" turl="alien:///alice/cern.ch/user/r/rmabitse/LHC18h2_extra_JAN2024/MyOutput/287000/004/root_archive.zip" />
+    </event>
+    <event name="5">
+      <file name="root_archive.zip" lfn="/alice/cern.ch/user/r/rmabitse/LHC18h2_extra_JAN2024/MyOutput/287000/005/root_archive.zip" turl="alien:///alice/cern.ch/user/r/rmabitse/LHC18h2_extra_JAN2024/MyOutput/287000/005/root_archive.zip" />
+    </event>
+    <event name="6">
+      <file name="root_archive.zip" lfn="/alice/cern.ch/user/r/rmabitse/LHC18h2_extra_JAN2024/MyOutput/287000/006/root_archive.zip" turl="alien:///alice/cern.ch/user/r/rmabitse/LHC18h2_extra_JAN2024/MyOutput/287000/006/root_archive.zip" />
+    </event>
+    <event name="7">
+      <file name="root_archive.zip" lfn="/alice/cern.ch/user/r/rmabitse/LHC18h2_extra_JAN2024/MyOutput/287000/007/root_archive.zip" turl="alien:///alice/cern.ch/user/r/rmabitse/LHC18h2_extra_JAN2024/MyOutput/287000/007/root_archive.zip" />
+    </event>
+    <event name="8">
+      <file name="root_archive.zip" lfn="/alice/cern.ch/user/r/rmabitse/LHC18h2_extra_JAN2024/MyOutput/287000/008/root_archive.zip" turl="alien:///alice/cern.ch/user/r/rmabitse/LHC18h2_extra_JAN2024/MyOutput/287000/008/root_archive.zip" />
+    </event>
+    <event name="9">
+      <file name="root_archive.zip" lfn="/alice/cern.ch/user/r/rmabitse/LHC18h2_extra_JAN2024/MyOutput/287000/009/root_archive.zip" turl="alien:///alice/cern.ch/user/r/rmabitse/LHC18h2_extra_JAN2024/MyOutput/287000/009/root_archive.zip" />
+    </event>
+    <event name="10">
+      <file name="root_archive.zip" lfn="/alice/cern.ch/user/r/rmabitse/LHC18h2_extra_JAN2024/MyOutput/287000/010/root_archive.zip" turl="alien:///alice/cern.ch/user/r/rmabitse/LHC18h2_extra_JAN2024/MyOutput/287000/010/root_archive.zip" />
+    </event>
+    <event name="11">
+      <file name="root_archive.zip" lfn="/alice/cern.ch/user/r/rmabitse/LHC18h2_extra_JAN2024/MyOutput/287000/011/root_archive.zip" turl="alien:///alice/cern.ch/user/r/rmabitse/LHC18h2_extra_JAN2024/MyOutput/287000/011/root_archive.zip" />
+    </event>
+    <event name="12">
+      <file name="root_archive.zip" lfn="/alice/cern.ch/user/r/rmabitse/LHC18h2_extra_JAN2024/MyOutput/287000/012/root_archive.zip" turl="alien:///alice/cern.ch/user/r/rmabitse/LHC18h2_extra_JAN2024/MyOutput/287000/012/root_archive.zip" />
+    </event>
+    <event name="13">
+      <file name="root_archive.zip" lfn="/alice/cern.ch/user/r/rmabitse/LHC18h2_extra_JAN2024/MyOutput/287000/013/root_archive.zip" turl="alien:///alice/cern.ch/user/r/rmabitse/LHC18h2_extra_JAN2024/MyOutput/287000/013/root_archive.zip" />
+    </event>
+    <event name="14">
+      <file name="root_archive.zip" lfn="/alice/cern.ch/user/r/rmabitse/LHC18h2_extra_JAN2024/MyOutput/287000/014/root_archive.zip" turl="alien:///alice/cern.ch/user/r/rmabitse/LHC18h2_extra_JAN2024/MyOutput/287000/014/root_archive.zip" />
+    </event>
+    <info comment="Exported XML" />
+</collection>
+</alien>

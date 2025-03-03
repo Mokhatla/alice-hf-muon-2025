@@ -1,0 +1,4 @@
+Info in <TJAlienConnectionManager>: Opening connection to JCentral. Please wait
+Info in <TJAlienConnectionManager>: Opening connection to 137.138.99.147
+Info in <TJAlienConnectionManager>: Successfully connected to 137.138.99.147
+myTask.sh: line 40: free: command not found

@@ -1,0 +1,61 @@
+{
+//========= Macro generated from object: fUnidentifiedPtWpDCA/fUnidentifiedPtWpDCA
+//========= by ROOT version6.26/06
+   
+   TH1F *fUnidentifiedPtWpDCA__1 = new TH1F("fUnidentifiedPtWpDCA__1","fUnidentifiedPtWpDCA",200,0,100);
+   fUnidentifiedPtWpDCA__1->SetBinContent(1,1686);
+   fUnidentifiedPtWpDCA__1->SetBinContent(2,1855);
+   fUnidentifiedPtWpDCA__1->SetBinContent(3,433);
+   fUnidentifiedPtWpDCA__1->SetBinContent(4,107);
+   fUnidentifiedPtWpDCA__1->SetBinContent(5,38);
+   fUnidentifiedPtWpDCA__1->SetBinContent(6,7);
+   fUnidentifiedPtWpDCA__1->SetBinContent(7,12);
+   fUnidentifiedPtWpDCA__1->SetBinContent(8,3);
+   fUnidentifiedPtWpDCA__1->SetBinContent(9,2);
+   fUnidentifiedPtWpDCA__1->SetBinContent(10,2);
+   fUnidentifiedPtWpDCA__1->SetBinContent(14,1);
+   fUnidentifiedPtWpDCA__1->SetBinError(1,41.0609);
+   fUnidentifiedPtWpDCA__1->SetBinError(2,43.0697);
+   fUnidentifiedPtWpDCA__1->SetBinError(3,20.8087);
+   fUnidentifiedPtWpDCA__1->SetBinError(4,10.3441);
+   fUnidentifiedPtWpDCA__1->SetBinError(5,6.16441);
+   fUnidentifiedPtWpDCA__1->SetBinError(6,2.64575);
+   fUnidentifiedPtWpDCA__1->SetBinError(7,3.4641);
+   fUnidentifiedPtWpDCA__1->SetBinError(8,1.73205);
+   fUnidentifiedPtWpDCA__1->SetBinError(9,1.41421);
+   fUnidentifiedPtWpDCA__1->SetBinError(10,1.41421);
+   fUnidentifiedPtWpDCA__1->SetBinError(14,1);
+   fUnidentifiedPtWpDCA__1->SetEntries(4146);
+   fUnidentifiedPtWpDCA__1->SetDirectory(0);
+   
+   TPaveStats *ptstats = new TPaveStats(0.78,0.775,0.98,0.935,"brNDC");
+   ptstats->SetName("stats");
+   ptstats->SetBorderSize(1);
+   ptstats->SetFillColor(0);
+   ptstats->SetTextAlign(12);
+   ptstats->SetTextFont(42);
+   TText *ptstats_LaTex = ptstats->AddText("fUnidentifiedPtWpDCA");
+   ptstats_LaTex->SetTextSize(0.0368);
+   ptstats_LaTex = ptstats->AddText("Entries = 4146   ");
+   ptstats_LaTex = ptstats->AddText("Mean  = 0.6726");
+   ptstats_LaTex = ptstats->AddText("Std Dev   = 0.4229");
+   ptstats->SetOptStat(1111);
+   ptstats->SetOptFit(0);
+   ptstats->Draw();
+   fUnidentifiedPtWpDCA__1->GetListOfFunctions()->Add(ptstats);
+   ptstats->SetParent(fUnidentifiedPtWpDCA__1);
+
+   Int_t ci;      // for color index setting
+   TColor *color; // for color definition with alpha
+   ci = TColor::GetColor("#000099");
+   fUnidentifiedPtWpDCA__1->SetLineColor(ci);
+   fUnidentifiedPtWpDCA__1->GetXaxis()->SetLabelFont(42);
+   fUnidentifiedPtWpDCA__1->GetXaxis()->SetTitleOffset(1);
+   fUnidentifiedPtWpDCA__1->GetXaxis()->SetTitleFont(42);
+   fUnidentifiedPtWpDCA__1->GetYaxis()->SetLabelFont(42);
+   fUnidentifiedPtWpDCA__1->GetYaxis()->SetTitleFont(42);
+   fUnidentifiedPtWpDCA__1->GetZaxis()->SetLabelFont(42);
+   fUnidentifiedPtWpDCA__1->GetZaxis()->SetTitleOffset(1);
+   fUnidentifiedPtWpDCA__1->GetZaxis()->SetTitleFont(42);
+   fUnidentifiedPtWpDCA__1->Draw("");
+}

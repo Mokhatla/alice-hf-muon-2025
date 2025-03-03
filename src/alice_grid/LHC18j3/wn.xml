@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<alien>
+  <collection name="find  -l 1  -o 0 /alice/sim/2021/LHC21j2a AOD/*/AliAOD.Muons.root">
+    <event name="1">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2021/LHC21j2a/244418/AOD/048/AliAOD.Muons.root" turl="alien:///alice/sim/2021/LHC21j2a/244418/AOD/048/AliAOD.Muons.root" />
+    </event>
+    <info comment="Exported XML" />
+</collection>
+</alien>

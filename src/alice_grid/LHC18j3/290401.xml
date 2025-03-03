@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<alien>
+  <collection name="find  -l 15000  -o 0 /alice/sim/2020/LHC20f4a/290401 AOD235/*/AliAOD.Muons.root">
+    <event name="1">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2020/LHC20f4a/290401/AOD235/0001/AliAOD.Muons.root" turl="alien:///alice/sim/2020/LHC20f4a/290401/AOD235/0001/AliAOD.Muons.root" />
+    </event>
+    <event name="2">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2020/LHC20f4a/290401/AOD235/0002/AliAOD.Muons.root" turl="alien:///alice/sim/2020/LHC20f4a/290401/AOD235/0002/AliAOD.Muons.root" />
+    </event>
+    <event name="3">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2020/LHC20f4a/290401/AOD235/0003/AliAOD.Muons.root" turl="alien:///alice/sim/2020/LHC20f4a/290401/AOD235/0003/AliAOD.Muons.root" />
+    </event>
+    <event name="4">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2020/LHC20f4a/290401/AOD235/0004/AliAOD.Muons.root" turl="alien:///alice/sim/2020/LHC20f4a/290401/AOD235/0004/AliAOD.Muons.root" />
+    </event>
+    <event name="5">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2020/LHC20f4a/290401/AOD235/0005/AliAOD.Muons.root" turl="alien:///alice/sim/2020/LHC20f4a/290401/AOD235/0005/AliAOD.Muons.root" />
+    </event>
+    <event name="6">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2020/LHC20f4a/290401/AOD235/0006/AliAOD.Muons.root" turl="alien:///alice/sim/2020/LHC20f4a/290401/AOD235/0006/AliAOD.Muons.root" />
+    </event>
+    <event name="7">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2020/LHC20f4a/290401/AOD235/0007/AliAOD.Muons.root" turl="alien:///alice/sim/2020/LHC20f4a/290401/AOD235/0007/AliAOD.Muons.root" />
+    </event>
+    <event name="8">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2020/LHC20f4a/290401/AOD235/0008/AliAOD.Muons.root" turl="alien:///alice/sim/2020/LHC20f4a/290401/AOD235/0008/AliAOD.Muons.root" />
+    </event>
+    <event name="9">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2020/LHC20f4a/290401/AOD235/0009/AliAOD.Muons.root" turl="alien:///alice/sim/2020/LHC20f4a/290401/AOD235/0009/AliAOD.Muons.root" />
+    </event>
+    <event name="10">
+      <file name="AliAOD.Muons.root" lfn="/alice/sim/2020/LHC20f4a/290401/AOD235/0010/AliAOD.Muons.root" turl="alien:///alice/sim/2020/LHC20f4a/290401/AOD235/0010/AliAOD.Muons.root" />
+    </event>
+    <info comment="Exported XML" />
+</collection>
+</alien>
